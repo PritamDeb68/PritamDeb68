@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Gen AI and MLOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Debopam-Pritam2014](https://github.com/Debopam-Pritam2014)
+- 👨‍💻 All of my projects are available at [https://github.com/Debopam-Pritam2014](https://github.com/PritamDeb68)
 
 - 💬 Ask me about **ML, DL ,NLP and More....**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debopamdey14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debopamdey14" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pritamdeb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debopamdey14" height="30" width="40" /></a>
 <a href="https://kaggle.com/debopam dey(pritam)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debopam dey(pritam)" height="30" width="40" /></a>
 </p>
 
