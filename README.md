@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Gen AI and MLOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Debopam-Pritam2014](https://github.com/PritamDeb68)
+- 👨‍💻 All of my projects are available at [https://github.com/PritamDeb68](https://github.com/PritamDeb68)
 
 - 💬 Ask me about **ML, DL ,NLP and More....**
 
